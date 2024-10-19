@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on economic behaviour interactive report
 - 🤔 I’m looking for help with d3.js combined with svelte
 - 💬 Ask me about anything
-- ⚡ Fun fact: awkwky is just a short for something else.
+- ⚡ Fun fact: awkwy is just a short for something else.
