@@ -11,7 +11,4 @@ I am particularly motivated by opportunities in innovative companies, where I ca
 
 - 🔭 I’m currently working on a vehicle insurance claim fraud detection project
 - 🌱 I’m currently learning actuarial sciences 
-- 👯 I’m looking to collaborate on economic behaviour interactive report
-- 🤔 I’m looking for help with d3.js combined with svelte
-- 💬 Ask me about anything
-- ⚡ Fun fact: awkwy is just a short for something else.
+
